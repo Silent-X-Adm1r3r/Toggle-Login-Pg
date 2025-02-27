@@ -8,8 +8,9 @@
 }
 
 body{
-    background-color: #c9d6ff;
-    background: linear-gradient(to right, #e2e2e2, #5e30eb);
+    background: url('Agreve.avif') no-repeat;
+    background-size: cover;
+    background-position: center;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -76,7 +77,7 @@ body{
 }
 
 .container input{
-    background-color: #eee;
+    background-color: #512da8;
     border: none;
     margin: 8px 0;
     padding: 10px 15px;
